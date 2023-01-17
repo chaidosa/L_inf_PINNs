@@ -32,4 +32,4 @@ train:
 test:
   step: 100 # evaluate every x epochs
   batch_size: 1000
-  data_path: '/kaggle/working/Project/L_inf-PINN/src/data/hjb_250_grad.pkl'
+  data_path: '/kaggle/working/Project/L_inf_PINN/src/data/hjb_250_grad.pkl'
