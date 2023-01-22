@@ -11,7 +11,7 @@ model:
   width: 4096
   depth: 4
 train:
-  iteration: 10000
+  iteration: 10
   batch:
     domain_size: 50
     boundary_size: 50
